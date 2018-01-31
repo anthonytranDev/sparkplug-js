@@ -1,0 +1,23 @@
+{
+  "name": "sparkplug-js",
+  "version": "0.0.1",
+  "description": "Quickly start a project with the configuration files that you need",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonytranDev/sparkplug-js.git"
+  },
+  "keywords": [
+    "CLI",
+    "configuration"
+  ],
+  "author": "Anthony Tran",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/anthonytranDev/sparkplug-js/issues"
+  },
+  "homepage": "https://github.com/anthonytranDev/sparkplug-js#readme"
+}
