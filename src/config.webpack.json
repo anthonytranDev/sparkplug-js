@@ -1,0 +1,18 @@
+{
+	"config": {
+		"js": {
+			"webpack_simplest": {
+				"section_modules": {
+					"unit_1": "const path = require('path');"
+				},
+				"section_customization": {},
+				"section_configuration": {
+					"unit_start": "module.exports = {",
+					"unit_1_entry": "entry: './src/index.js',",
+					"unit_2_entry": "output: {filename: 'bundle.js',path: path.resolve(__dirname, 'dist')}",
+					"unit_end": "};"
+				}
+			}
+		}
+	}
+}
